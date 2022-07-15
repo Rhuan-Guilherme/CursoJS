@@ -24,3 +24,4 @@ function contar() {
         res.innerHTML += `\u{1F312}`
     }
 }
+
